@@ -1,6 +1,6 @@
 # Hi there, I'm BSKN 👋
 
-## I follow...
+## Think about
 ![Perspective](perspective.png)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Bskn1412.Bskn1412&label=Profile%20Views)
