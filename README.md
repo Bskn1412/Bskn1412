@@ -7,8 +7,11 @@
 
 ---
 
-## 💡 Quote I Live By
-*"It's not who you are underneath, but what you do that defines you."* — You know who said..!!
+```md
+💡 Quote I Live By:
+"It's not who you are underneath, but what you do that defines you." 
+```
+ — You know who said..!!
 
 ## 🎮 Gaming / Hobbies
 - GTA V
