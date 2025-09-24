@@ -1,15 +1,24 @@
 # Hi there, I'm BSKN 👋
 
-
-# I follow...
+## I follow...
 ![Perspective](perspective.png)
-
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Bskn1412.Bskn1412&label=Profile%20Views)
 
+---
 
+## 💡 Quote I Live By
+*"It's not who you are underneath, but what you do that defines you."* — You know who said..!!
 
+## 🎮 Gaming / Hobbies
+- GTA V
+- Movies 
+- Solving Puzzles
 
+## 🌐 Languages I Speak
+- Telugu
+- Hindi
+- English
 
 
 
