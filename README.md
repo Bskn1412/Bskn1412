@@ -1,6 +1,6 @@
 # Hi there, I'm BSKN 👋
 
-![Perspective](perspective.jpg)
+![Perspective](perspective.png)
 
 
 
