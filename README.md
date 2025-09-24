@@ -8,7 +8,7 @@
 ---
 💡 Quote I Live By:
 ```md
-"It's not who you are underneath, but what you do that defines you."  — You know who said..!!
+"It's not who you are underneath, but what you do that defines you."  — You know who said this..!!
 ```
 
 ## 🎮 Gaming / Hobbies
