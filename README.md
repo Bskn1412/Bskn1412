@@ -1,6 +1,8 @@
 # Hi there, I'm BSKN 👋
-
 ![Perspective](perspective.png)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bskn1412.Bskn1412)
+
 
 
 
