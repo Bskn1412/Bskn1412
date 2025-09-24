@@ -1,8 +1,6 @@
+# Hi there, I'm BSKN 👋
 
-
-
-
-## Hi there 👋 I'm BSKN...
+![Perspective](perspective.jpg)
 
 
 
