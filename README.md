@@ -15,7 +15,7 @@
 - Movies 
 - Solving Puzzles
 
-## 🌐 Languages I Speak
+## Languages I Speak
 - Telugu
 - Hindi
 - English
