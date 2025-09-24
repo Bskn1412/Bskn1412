@@ -6,12 +6,10 @@
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Bskn1412.Bskn1412&label=Profile%20Views)
 
 ---
-
-```md
 💡 Quote I Live By:
-"It's not who you are underneath, but what you do that defines you." 
+```md
+"It's not who you are underneath, but what you do that defines you."  — You know who said..!!
 ```
- — You know who said..!!
 
 ## 🎮 Gaming / Hobbies
 - GTA V
